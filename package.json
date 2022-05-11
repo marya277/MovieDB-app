@@ -1,0 +1,19 @@
+{
+  "name": "moviedb-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marya277/MovieDB-app.git"
+  },
+  "author": "Mary Arroyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marya277/MovieDB-app/issues"
+  },
+  "homepage": "https://github.com/marya277/MovieDB-app#readme"
+}
